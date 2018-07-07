@@ -1,0 +1,25 @@
+{
+  "name": "aio-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "aio": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/netragazzo/aio-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/netragazzo/aio-cli/issues"
+  },
+  "homepage": "https://github.com/netragazzo/aio-cli#readme",
+  "dependencies": {
+    "commander": "^2.16.0"
+  }
+}
