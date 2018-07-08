@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/netragazzo/aio-cli#readme",
   "dependencies": {
-    "commander": "^2.16.0"
+    "commander": "^2.16.0",
+    "request": "^2.87.0",
+    "tar-fs": "^1.16.3"
   }
 }
